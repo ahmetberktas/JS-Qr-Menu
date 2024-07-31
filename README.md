@@ -15,7 +15,7 @@
       <pre><code>git clone https://github.com/ahmetberktas/JS-Qr-Menu</code></pre>
     </li>
     <li>Proje dizinine gidin:
-      <pre><code>cd JS-QR-MENU</code></pre>
+      <pre><code>cd JS-Qr-Menu</code></pre>
     </li>
     <li>Uygulamayı çalıştırmak için <code>index.html</code> dosyasını tarayıcınızda açın.</li>
   </ul>
