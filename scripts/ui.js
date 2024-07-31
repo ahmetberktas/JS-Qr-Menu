@@ -8,7 +8,7 @@ export function renderMenuItems(menuItems, menuList) {
           <a
           id="card"
           class="d-flex flex-column flex-md-row text-decoration-none text-dark gap-3"
-          href="#"
+          href="/details.html?id=${item.id}"
         >
           <img class="rounded shadow img-fluid" src="${item.img}" />
           <div>
